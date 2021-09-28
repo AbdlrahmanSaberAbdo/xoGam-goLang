@@ -1,2 +1,2 @@
-# xoGam-goLang
+# xoGame-goLang
 Simple xo game using goLang 
